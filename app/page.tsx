@@ -141,7 +141,7 @@ export default function Portfolio() {
             </div>
             <h1 className="text-4xl md:text-6xl font-bold text-slate-900 mb-4">Bandi Ashok</h1>
             <p className="text-xl text-slate-600 mb-8 max-w-3xl mx-auto">
-              Backend Developer | Full Stack Developer | AI Engineer
+              Aspiring Software Developer
             </p>
             <div className="flex flex-wrap justify-center gap-4 mb-8">
               <Button
@@ -632,7 +632,7 @@ export default function Portfolio() {
       {/* Footer */}
       <footer className="bg-slate-900 text-white py-8 px-4 sm:px-6 lg:px-8">
         <div className="max-w-6xl mx-auto text-center">
-          <p className="text-slate-400 mb-4">© 2025 Bandi Ashok. Built with Next.js and Tailwind CSS.</p>
+          <p className="text-slate-400 mb-4"></p>
           <div className="flex justify-center space-x-6">
             <a
               href="https://github.com/Ashok11342"
